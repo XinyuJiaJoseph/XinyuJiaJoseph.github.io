@@ -25,12 +25,12 @@ organizations:
     url: https://www.sheffield.ac.uk/is
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Information Seeking Behavior
+  - Behavior Transitions
   - Information Retrieval
 
 # Education to show in About widget
