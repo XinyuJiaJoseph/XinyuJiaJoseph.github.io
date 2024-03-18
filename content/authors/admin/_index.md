@@ -120,5 +120,18 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year PhD student (from 10/2023) in the [Information School, the University of Sheffield](https://www.sheffield.ac.uk/is). My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
+
+Before starting my PhD study, I got my Bachelor of Internet of Things Engineering in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China. After having background experience in computer science, I entered the Information School and obtained a Master of Science degree in Information Management. During my master's study, I gained my interest in information behavior research and was able to join the Information School to continue my PhD study.
+
+PhD Project
+------
+Title: The Academic Journey Abroad: Modeling the Academic Information Seeking Behavior Transitions of International Students in the UK
+
+PhD Supervisors
+------
+[Dr Sophie Rutter](https://www.sheffield.ac.uk/is/people/academic/sophie-rutter)
+
+[Sheila Webber](https://www.sheffield.ac.uk/is/people/academic/sheila-webber)
+
 {style="text-align: justify;"}
