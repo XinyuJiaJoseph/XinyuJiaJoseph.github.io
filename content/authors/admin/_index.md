@@ -25,30 +25,29 @@ organizations:
     url: https://www.sheffield.ac.uk/is
 
 # Short bio (displayed in user profile at end of posts)
-bio: test
+bio: My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information Seeking Behavior
+  - Behavior Transitions
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Studies (Social)
+      institution: University of Sheffield
+      year: 2023
+    - course: MSc in Information Management
+      institution: University of Sheffield
+      year: 2022
+    - course: BEng in Internet of Things Engineering
+      institution: Beijing University of Posts and Telecommunications
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+# skills:
   - name: Technical
     items:
       - name: Python
@@ -90,7 +89,7 @@ skills:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+# social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -131,7 +130,6 @@ Title: The Academic Journey Abroad: Modeling the Academic Information Seeking Be
 PhD Supervisors
 ------
 [Dr Sophie Rutter](https://www.sheffield.ac.uk/is/people/academic/sophie-rutter)
-
 [Sheila Webber](https://www.sheffield.ac.uk/is/people/academic/sheila-webber)
 
 {style="text-align: justify;"}
