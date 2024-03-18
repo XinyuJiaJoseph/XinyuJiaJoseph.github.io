@@ -47,9 +47,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Check emails 24/7, please allow for delayed replies.
       # Contact (add or remove contact options as necessary)
       email: xjia14@sheffield.ac.uk
       phone: please contact via email
@@ -70,14 +67,7 @@ sections:
         longitude: '-1.4948783'  
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      
     design:
       columns: '2'
 ---
