@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Xinyu (Joseph) Jia
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 贾 新煜
 
 # Full name (for SEO)
 first_name: Shiung Wu
