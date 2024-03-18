@@ -80,11 +80,11 @@ highlight_name: true
 
 I am a PhD student (from 10/2023) in the [Information School, University of Sheffield](https://www.sheffield.ac.uk/is). My research interest is in investigating the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
 
-Before starting my PhD study, I got my Bachelor of Internet of Things Engineering in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China. After having background experience in computer science, I entered the Information School and obtained a Master of Science degree in Information Management. During my master's study, I gained my interest in information behavior research and was able to join the Information School to continue my PhD study.
+Before starting my PhD study, I got my Bachelor of Internet of Things Engineering from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China. With a background in computer science, I proceeded to the Information School where I completed a Master of Science degree in Information Management. During my master's study, I gained an interest in information behavior research, enabling me to join the Information School for my PhD study.
 
 PhD Project
 ------
-Title: The Academic Journey Abroad: Modeling the Academic Information Seeking Behavior Transitions of International Students in the UK
+Title: "The Academic Journey Abroad: Modeling the Academic Information Seeking Behavior Transitions of International Students in the UK"
 
 PhD Supervisors
 ------
