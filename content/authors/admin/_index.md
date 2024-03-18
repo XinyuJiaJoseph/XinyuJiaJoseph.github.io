@@ -3,29 +3,32 @@
 title: Xinyu (Joseph) Jia
 
 # Name pronunciation (optional)
-name_pronunciation: 贾 新煜
+# name_pronunciation: 贾 新煜
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinyu
+last_name: Jia
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Information School, University of Sheffield
+    url: https://www.sheffield.ac.uk/is
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+I am a first-year PhD student (from 10/2023) in the [Information School, the University of Sheffield](https://www.sheffield.ac.uk/is). My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
+
+Before starting my PhD study, I got my Bachelor of Internet of Things Engineering in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China. After having background experience in computer science, I entered the Information School and obtained a Master of Science degree in Information Management. During my master's study, I gained my interest in information behavior research and was able to join the Information School to continue my PhD study.
 
 # Interests to show in About widget
 interests:
