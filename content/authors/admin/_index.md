@@ -3,21 +3,21 @@
 title: Xinyu (Joseph) Jia
 
 # Name pronunciation (optional)
-# name_pronunciation: 贾 新煜
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Xinyu
 last_name: Jia
 
 # Status emoji
-# status:
-#  icon: ☕️
+status:
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD researcher
+role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,16 +25,17 @@ organizations:
     url: https://www.sheffield.ac.uk/is
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Information Seeking Behavior
-  - Behavior Transitions
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
-  - courses:
+  courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
@@ -47,7 +48,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
+skills:
   - name: Technical
     items:
       - name: Python
@@ -89,7 +90,7 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
+social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -130,6 +131,6 @@ Title: The Academic Journey Abroad: Modeling the Academic Information Seeking Be
 PhD Supervisors
 ------
 [Dr Sophie Rutter](https://www.sheffield.ac.uk/is/people/academic/sophie-rutter)
-[Sheila Webber](https://www.sheffield.ac.uk/is/people/academic/sheila-webber)
 
+[Sheila Webber](https://www.sheffield.ac.uk/is/people/academic/sheila-webber)
 {style="text-align: justify;"}
