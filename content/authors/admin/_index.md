@@ -25,8 +25,7 @@ organizations:
     url: https://www.sheffield.ac.uk/is
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-I am a first-year PhD student (from 10/2023) in the [Information School, the University of Sheffield](https://www.sheffield.ac.uk/is). My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
+bio: I am a first-year PhD student (from 10/2023) in the [Information School, the University of Sheffield](https://www.sheffield.ac.uk/is). My research interest is in investing the academic information seeking behavior transitions of international students when they study abroad. I am also interested in broad information behavior research.
 
 Before starting my PhD study, I got my Bachelor of Internet of Things Engineering in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China. After having background experience in computer science, I entered the Information School and obtained a Master of Science degree in Information Management. During my master's study, I gained my interest in information behavior research and was able to join the Information School to continue my PhD study.
 
