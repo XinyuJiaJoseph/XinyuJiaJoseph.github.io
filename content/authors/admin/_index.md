@@ -38,13 +38,13 @@ education:
   courses:
     - course: PhD in Information Studies
       institution: University of Sheffield
-      year: 2023
+      year: 10/2023 - Present
     - course: MSc in Information Management
       institution: University of Sheffield
-      year: 2022
+      year: 09/2022 - 09/2023
     - course: BEng in Internet of Things Engineering
       institution: Beijing University of Posts and Telecommunications
-      year: 2018
+      year: 09/2018 - 06/2022
 
 
 # Social/Academic Networking
