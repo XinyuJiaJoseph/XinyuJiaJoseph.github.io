@@ -55,8 +55,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x
-    icon_pack: brands
+  - icon: twitter/brands
     link: https://twitter.com/JosephJia27
   - icon: graduation-cap
     icon_pack: fas
