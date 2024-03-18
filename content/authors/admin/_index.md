@@ -58,9 +58,6 @@ social:
   - icon: x
     icon_pack: brands
     link: https://twitter.com/JosephJia27
-    label: Follow me on x
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://www.sheffield.ac.uk/is/people/phd-researchers/xinyu-joseph-jia
