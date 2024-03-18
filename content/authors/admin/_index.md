@@ -61,12 +61,9 @@ social:
     label: Follow me on x
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://www.sheffield.ac.uk/is/people/phd-researchers/xinyu-joseph-jia
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xinyu-jia-407121204/
