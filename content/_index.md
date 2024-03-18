@@ -56,7 +56,7 @@ sections:
         postcode: 'S10 2AH, UK'
         country: United Kindom
         country_code: UK
-      directions: Enter the building and take the stairs to Office C310 on Floor C
+      directions: Enter the building and take the stairs to Office C200 on Floor C
       office_hours:
         - 'Monday 09:00 to 18:30'
         - 'Friday 09:00 to 18:30'
