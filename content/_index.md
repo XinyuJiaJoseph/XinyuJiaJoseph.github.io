@@ -49,37 +49,25 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Check emails 24/7, please allow for delayed replies.
       # Contact (add or remove contact options as necessary)
       email: xjia14@sheffield.ac.uk
       phone: please contact via email
       address:
         street: The Wave, 2 Whitham Road
         city: Sheffield
-        postcode: ', S10 2AH'
+        postcode: 'S10 2AH, UK'
         country: United Kindom
         country_code: UK
       directions: Enter the building and take the stairs to Office C310 on Floor C
       office_hours:
         - 'Monday 09:00 to 18:30'
         - 'Friday 09:00 to 18:30'
+        - 'Check emails 24/7, please allow for delayed replies'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '53.379430'
-        longitude: '-1.497340'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        latitude: '53.3809418'
+        longitude: '-1.4948783'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
